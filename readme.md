@@ -6,14 +6,11 @@ I hope to get more insights by collecting and analyzing the gun-related data to 
 Tools used: <strong>data cleaning</strong>, <strong>Pivot Table</strong>, <strong>Pivot Chart</strong>, <strong>Excel Table</strong>, <strong>Power View</strong>
 
 ### Insights:
-
-	
-
-	 *	Firearm-related death has increased in the past five years.
-	 *	In the six intents of deaths, the firearm nearly always ranks at the top of the mechanisms leading to the deaths.
-	 *	The large central metro is the accident-prone land, which might be one of the targets with more stringent gun control policies.
-	 *	Death rate and death toll caused by firearms were rapidly rising.
-	 *	In the past decades, the will of gun control is falling down in most regions.
+* Firearm-related death has increased in the past five years.
+* In the six intents of deaths, the firearm nearly always ranks at the top of the mechanisms leading to the deaths.
+* The large central metro is the accident-prone land, which might be one of the targets with more stringent gun control policies.
+* Death rate and death toll caused by firearms were rapidly rising.
+* In the past decades, the will of gun control is falling down in most regions.
 
 
 
